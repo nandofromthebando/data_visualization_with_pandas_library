@@ -18,7 +18,7 @@ bash
 Copy code
 pip install pandas numpy matplotlib
 Replace the Data File:
-Replace the sample data file (/Users/nandolessard/Desktop/Billionare Stats/Billionaires Statistics Dataset.csv) with your own dataset. You can specify the path to your data file in the load_data function within the script.
+Replace the sample data file (/YourFilePath/Billionaires Statistics Dataset.csv) with your own dataset. You can specify the path to your data file in the load_data function within the script.
 Run the Script:
 Execute the script to generate visualizations and statistics:
 bash
